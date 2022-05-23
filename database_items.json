@@ -1,0 +1,66 @@
+{
+  "01": {
+    "id": "hsu_211",
+    "object": "HSU",
+    "number": "211",
+    "type": "item",
+    "zone": 51,
+    "status": "Deactivated"
+  },
+  "02": {
+    "id": "key_yellow_140",
+    "object": "KEY",
+    "number": "140",
+    "type": "key",
+    "zone": 51,
+    "status": "Normal"
+  },
+  "03": {
+    "id": "ammopack_641",
+    "object": "ammopack",
+    "number": "641",
+    "type": "resources",
+    "zone": 48,
+    "status": "Normal"
+  },
+  "04": {
+    "id": "toolkit_109",
+    "object": "toolkit",
+    "number": "109",
+    "type": "resources",
+    "zone": 50,
+    "status": "Unknown"
+  },
+  "05": {
+    "id": "ammopack_321",
+    "object": "ammopack",
+    "number": "312",
+    "type": "resources",
+    "zone": 50,
+    "status": "Unknown"
+  },
+  "06": {
+    "id": "toolkit_515",
+    "object": "toolkit",
+    "number": "515",
+    "type": "resources",
+    "zone": 48,
+    "status": "Unknown"
+  },
+  "07": {
+    "id": "hsu_338",
+    "object": "HSU",
+    "number": "338",
+    "type": "item",
+    "zone": 49,
+    "status": "Activated"
+  },
+  "08": {
+    "id": "key_blue_662",
+    "object": "key",
+    "number": "662",
+    "type": "key",
+    "zone": 51,
+    "status": "Unknown"
+  }
+}
