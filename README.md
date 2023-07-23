@@ -3,7 +3,7 @@
 # Simulator of GTFO's In-Game Terminal
 This simple python-app simulates the usable in-game terminal from the popular horror-coop-action-game called **"GTFO"**.
 
-<a href="https://gtfothegame.com/"><img alt="GTFO Game" title="GTFO on Steam" src="https://custom-icon-badges.demolab.com/badge/GTFO%20the%20Game,%20Website-cca300?style=for-the-badge&logoColor=white&logo=link"/></a>
+<a href="https://gtfothegame.com/"><img alt="GTFO Game" title="GTFO on Steam" src="https://custom-icon-badges.demolab.com/badge/GTFO%20the%20Game,%20Website-a67805?style=for-the-badge&logoColor=white&logo=link"/></a>
 <a href="https://store.steampowered.com/app/493520/GTFO/"><img alt="GTFO Game" title="GTFO on Steam" src="https://custom-icon-badges.demolab.com/badge/Find%20GTFO%20on%20Steam-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a>
 
 For more information about this game, and its terminal system, feel free to watch the following **YouTube** video:
